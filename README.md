@@ -34,17 +34,6 @@
 
 ---
 
-## Project Structure
-
-AI-Job-Recommendation-System/
-├── app.py              # Main Streamlit application
-├── jobs.csv            # Job dataset (CSV file)
-├── requirements.txt    # Python dependencies
-├── README.md           # Project documentation
-└── LICENSE             # MIT License
-
----
-
 ## Usage
 
 1. Open the Streamlit app in your browser:
