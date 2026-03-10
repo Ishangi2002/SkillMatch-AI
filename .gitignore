@@ -1,4 +1,21 @@
+# Sensitive Information
+.env
+
+# Large Binary Data (Keep these local)
+faiss_index.bin
+job_metadata.pkl
+
+# Processed/Raw Data (If you want others to build them from scripts)
+processed_jobs.csv
+jobs.csv  
+
+# Python/IDE temporary files
 __pycache__/
 *.pyc
-processed_jobs.csv
-jobs.csv
+.vscode/
+.ipynb_checkpoints/
+
+# Environments (If you decide to create a venv later)
+venv/
+.venv/
+env/
