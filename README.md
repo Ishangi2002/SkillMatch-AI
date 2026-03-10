@@ -53,7 +53,9 @@ pip install -r requirements.txt
 
 3. Create a .env file in the project root:
 
+```bash
 GEMINI_API_KEY=your_real_gemini_api_key_here
+```
 
 4. Ensure the FAISS index and job metadata are built:
 
