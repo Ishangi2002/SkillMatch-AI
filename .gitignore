@@ -5,7 +5,7 @@
 faiss_index.bin
 job_metadata.pkl
 
-# Processed/Raw Data (If you want others to build them from scripts)
+# Processed/Raw Data 
 jobs.csv 
 processed_jobs.csv
  
@@ -16,7 +16,5 @@ __pycache__/
 .vscode/
 .ipynb_checkpoints/
 
-# Environments (If you decide to create a venv later)
-venv/
-.venv/
+# Environments 
 env/
