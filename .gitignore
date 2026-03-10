@@ -6,8 +6,9 @@ faiss_index.bin
 job_metadata.pkl
 
 # Processed/Raw Data (If you want others to build them from scripts)
+jobs.csv 
 processed_jobs.csv
-jobs.csv  
+ 
 
 # Python/IDE temporary files
 __pycache__/
