@@ -42,7 +42,7 @@
 
 ```bash
 git clone https://github.com/Ishangi2002/SkillMatch-AI.git
-cd rag-job-recommender
+cd SkillMatch AI
 ```
 
 2. Install required packages:
